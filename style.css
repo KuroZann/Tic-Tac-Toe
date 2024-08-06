@@ -1,4 +1,4 @@
-{
+*{
   padding: 0;
   margin: 0 0 0 0;
   font-family: sans-serif;
@@ -163,6 +163,8 @@ a{
   color: #ff0000;
   font-weight: bold;
 }
+
+/* foter */
 
 .footer{
   width: 100lvw;
